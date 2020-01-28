@@ -1,2 +1,2 @@
 # test
-Sharing stuff with INRA
+Sharing stuff with INRAE
